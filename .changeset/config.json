@@ -1,0 +1,12 @@
+{
+  "changelog": [
+    "@changesets/changelog-github",
+    {
+      "repo": "qishilong/react-state-management-library"
+    }
+  ],
+  "commit": false,
+  "access": "public",
+  "baseBranch": "main",
+  "tag": true
+}
